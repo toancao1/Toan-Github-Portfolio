@@ -37,6 +37,8 @@ body {
   color: #d3d3d3;
   text-align: center;
   padding: 14px 20px;
+        display: inline-block; 
+
 }
 
 .navbar a:hover {
@@ -48,4 +50,7 @@ body {
   background-color: #d3d3d3;
   color: black;
 }
+
+
+
 
