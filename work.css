@@ -1,6 +1,5 @@
 body{
     margin: 60px auto;
-    width: 70%;
 }
 
 p {
@@ -34,11 +33,10 @@ body {
 }
 
 .navbar a {
-  color: #d3d3d3;
+  color: black;
   text-align: center;
   padding: 14px 20px;
-        display: inline-block; 
-
+  text-decoration: none;
 }
 
 .navbar a:hover {
@@ -50,7 +48,5 @@ body {
   background-color: #d3d3d3;
   color: black;
 }
-
-
 
 
