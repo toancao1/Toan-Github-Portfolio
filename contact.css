@@ -1,10 +1,9 @@
 body{
     margin: 60px auto;
-    width: 70%;
 }
 
 p {
-    font-size: 10pt;
+    font-size: 11pt;
     line-height: 1.4em;
     color: black;
 }
@@ -22,7 +21,7 @@ footer{
     font-size: 10pt;
 }
 
-body{
+body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
@@ -34,7 +33,6 @@ body{
 }
 
 .navbar a {
-  float: left;
   color: black;
   text-align: center;
   padding: 14px 20px;
@@ -50,3 +48,4 @@ body{
   background-color: #d3d3d3;
   color: black;
 }
+
